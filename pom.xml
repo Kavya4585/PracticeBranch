@@ -57,7 +57,6 @@
     <version>5.0.9</version>
 </dependency>
 
-
   	<dependency>
   		<groupId>AppiumFramework</groupId>
   		<artifactId>AppiumFramework</artifactId>
